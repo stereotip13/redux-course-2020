@@ -1,19 +1,19 @@
 body {
-  transition: .2s all ease-in;
+  transition: 0.2s all ease-in;
 }
 
 body.dark {
-  background: #343a40;
+  background: #24313d;
   color: #fff;
 }
 
 body.dark hr {
-  border-top: 1px solid rgba(0,0,0,.9);
+  border-top: 1px solid rgba(62, 52, 52, 0.9);
 }
 
 body.dark .card {
-  background: #343a40;
-  border: 1px solid rgba(0,0,0,.875);
+  background: #383b3f;
+  border: 1px solid rgba(0, 0, 0, 0.875);
 }
 
 .heading {
